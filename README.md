@@ -75,6 +75,19 @@ Streamlit will automatically open the application in your browser. If not, visit
 http://localhost:8501
 ```
 
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/homepage.png)
+
+### Chat Conversation
+
+![Chat Conversation](screenshots/chat.png)
+
+### Unknown Query Handling
+
+![Fallback Response](screenshots/fallback.png)
 ## 👨‍💻 Author
 
 Rajarajan V
