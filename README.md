@@ -1,5 +1,8 @@
 # 🛍️ Smart E-Commerce Customer Support Chatbot
 
+## 🚀 Live Demo
+Try the application here: https://customer-service-chatbot-ur29.streamlit.app/
+
 An NLP-powered customer service chatbot designed to assist users with common e-commerce queries related to orders, shipping, refunds, payments, and account support.
 
 The chatbot uses a custom-built FAQ dataset and Natural Language Processing (NLP) techniques to understand user queries and provide the most relevant responses. It features an interactive Streamlit interface with quick-access questions, conversation history, and contextual suggestions for a seamless customer support experience.
