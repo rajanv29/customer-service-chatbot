@@ -1,0 +1,105 @@
+Category,Question,Answer
+Orders,How can I track my order?,You can track your order from the My Orders section using your Order ID.
+Orders,Can I cancel my order after placing it?,Yes you can cancel your order before it is shipped from the warehouse.
+Orders,How do I modify my order?,Order modifications are allowed only before the order is processed for shipping.
+Orders,Why haven't I received my order confirmation email?,Please check your spam folder. If you still cannot find it contact customer support.
+Orders,What does my order status mean?,Order statuses indicate the current stage of processing shipping or delivery.
+Orders,What should I do if an item is missing from my order?,Contact customer support within 48 hours of delivery with your order details.
+Orders,I accidentally placed the same order twice. What should I do?,You can cancel the duplicate order if it has not been shipped.
+Orders,Why is my order delayed?,Delays may occur due to high demand weather conditions or courier issues.
+Orders,Where can I view my previous orders?,You can view your order history in the My Orders section of your account.
+Orders,Can I place a gift order?,Yes gift orders can be placed by selecting the gift option during checkout.
+Orders,Where is my package?,You can track your order from the My Orders section using your Order ID.
+Orders,Where is my order?,You can track your order from the My Orders section using your Order ID.
+Orders,Where is my order currently?,You can track your order from the My Orders section using your Order ID.
+Orders,Track my shipment,You can track your order from the My Orders section using your Order ID.
+Orders,How do I track my package?,You can track your order from the My Orders section using your Order ID.
+Orders,Has my order been shipped?,You can track your order from the My Orders section using your Order ID.
+Orders,Can I stop my order?,Yes you can cancel your order before it is shipped from the warehouse.
+Orders,I want to cancel my purchase,Yes you can cancel your order before it is shipped from the warehouse.
+Orders,How can I edit my order?,Order modifications are allowed only before the order is processed for shipping.
+Orders,I entered the wrong item can I change it?,Order modifications are allowed only before the order is processed for shipping.
+Orders,Why is my package late?,Delays may occur due to high demand weather conditions or courier issues.
+Orders,My delivery is taking too long,Delays may occur due to high demand weather conditions or courier issues.
+Shipping,How long does delivery take?,Standard delivery usually takes 3 to 7 business days.
+Shipping,Do you offer express shipping?,Yes express shipping is available for selected locations.
+Shipping,What are the shipping charges?,Shipping charges depend on the delivery location and order value.
+Shipping,Can I change my shipping address after placing an order?,You can change the address before the order is shipped.
+Shipping,Do you ship internationally?,Yes international shipping is available for selected countries.
+Shipping,How can I know if you deliver to my area?,Enter your postal code during checkout to check availability.
+Shipping,Why is my shipment delayed?,Shipment delays may occur due to weather holidays or logistics issues.
+Shipping,Which courier partners do you use?,We work with trusted courier partners to ensure safe delivery.
+Shipping,Do you provide weekend delivery?,Weekend delivery availability depends on your location and courier service.
+Shipping,Can I schedule my delivery date?,Scheduled delivery is available for selected products and locations.
+Shipping,How many days for delivery?,Standard delivery usually takes 3 to 7 business days.
+Shipping,When will my order arrive?,Standard delivery usually takes 3 to 7 business days.
+Shipping,Do you have fast delivery?,Yes express shipping is available for selected locations.
+Shipping,Can I get same day delivery?,Express shipping is available for selected locations where supported.
+Shipping,How much is shipping?,Shipping charges depend on the delivery location and order value.
+Shipping,Do you deliver outside the country?,Yes international shipping is available for selected countries.
+Shipping,Can I change the delivery address?,You can change the address before the order is shipped.
+Shipping,Do you deliver on weekends?,Weekend delivery availability depends on your location and courier service.
+Shipping,Can I choose my delivery date?,Scheduled delivery is available for selected products and locations.
+Shipping,Is delivery available in my city?,Enter your postal code during checkout to check availability.
+Refunds & Returns,What is your refund policy?,Eligible refunds are processed after successful return verification.
+Refunds & Returns,How long does it take to receive a refund?,Refunds are usually processed within 5 to 7 business days.
+Refunds & Returns,How can I return a product?,You can initiate a return request from the My Orders section.
+Refunds & Returns,What products are eligible for return?,Unused products in original condition are generally eligible for return.
+Refunds & Returns,What should I do if I receive a damaged product?,Report the issue within 48 hours and upload product images.
+Refunds & Returns,I received the wrong item. What should I do?,Request a replacement or return through the My Orders section.
+Refunds & Returns,Can I exchange a product instead of returning it?,Yes exchanges are available for eligible products.
+Refunds & Returns,Who pays for return shipping?,Return shipping charges depend on the reason for return.
+Refunds & Returns,How can I check my refund status?,You can track refund status from the My Orders section.
+Refunds & Returns,Can I get a partial refund?,Partial refunds may be issued depending on the circumstances.
+Refunds & Returns,When will I get my money back?,Refunds are usually processed within 5 to 7 business days.
+Refunds & Returns,How many days for refund?,Refunds are usually processed within 5 to 7 business days.
+Refunds & Returns,I want to return a product,You can initiate a return request from the My Orders section.
+Refunds & Returns,How do I send an item back?,You can initiate a return request from the My Orders section.
+Refunds & Returns,My product arrived damaged,Report the issue within 48 hours and upload product images.
+Refunds & Returns,I received a broken item,Report the issue within 48 hours and upload product images.
+Refunds & Returns,You sent me the wrong product,Request a replacement or return through the My Orders section.
+Refunds & Returns,Can I replace my item?,Yes exchanges are available for eligible products.
+Refunds & Returns,Where is my refund?,You can track refund status from the My Orders section.
+Refunds & Returns,Can I get some money back?,Partial refunds may be issued depending on the circumstances.
+Payments,What payment methods do you accept?,We accept UPI credit cards debit cards net banking and wallets.
+Payments,My payment failed. What should I do?,Please try again after checking your payment details and internet connection.
+Payments,Is cash on delivery available?,Cash on delivery is available for eligible products and locations.
+Payments,Can I pay using UPI?,Yes UPI payments are supported through popular UPI apps.
+Payments,Do you offer EMI options?,EMI options are available for selected products and eligible cards.
+Payments,How can I get an invoice for my purchase?,Invoices can be downloaded from the My Orders section.
+Payments,I was charged twice for the same order. What should I do?,Contact customer support with payment details for assistance.
+Payments,How will I know if my payment was successful?,You will receive a confirmation email and order notification.
+Payments,Are online payments secure?,Yes all online transactions are protected using secure encryption.
+Payments,Can I use multiple payment methods for one order?,Multiple payment methods may be available depending on the order.
+Payments,Payment not working,Please try again after checking your payment details and internet connection.
+Payments,Why did my payment fail?,Please try again after checking your payment details and internet connection.
+Payments,Can I pay through UPI?,Yes UPI payments are supported through popular UPI apps.
+Payments,Do you accept Google Pay?,Yes UPI payments are supported through popular UPI apps.
+Payments,Is cash on delivery available in my area?,Cash on delivery is available for eligible products and locations.
+Payments,Can I buy on EMI?,EMI options are available for selected products and eligible cards.
+Payments,I need my bill,Invoices can be downloaded from the My Orders section.
+Payments,I got charged twice,Contact customer support with payment details for assistance.
+Payments,How do I know my payment went through?,You will receive a confirmation email and order notification.
+Payments,Is it safe to pay online?,Yes all online transactions are protected using secure encryption.
+Account & Support,How do I reset my password?,Click Forgot Password on the login page and follow the instructions.
+Account & Support,How can I change my email address?,You can update your email address from account settings.
+Account & Support,How do I update my phone number?,Visit account settings and edit your registered phone number.
+Account & Support,Can I delete my account?,Yes account deletion requests can be submitted through customer support.
+Account & Support,How can I contact customer support?,You can contact support through chat email or phone.
+Account & Support,How do I escalate a complaint?,Request escalation through customer support if your issue remains unresolved.
+Account & Support,What are your customer support hours?,Customer support is available from 9 AM to 6 PM on business days.
+Account & Support,Do you provide live chat support?,Yes live chat support is available during working hours.
+Account & Support,How can I verify my account?,Follow the verification instructions sent to your registered email.
+Account & Support,Where can I find the customer care number?,The customer care number is available on the Contact Us page.
+Account & Support,I forgot my password,Click Forgot Password on the login page and follow the instructions.
+Account & Support,How can I recover my account?,Click Forgot Password on the login page and follow the instructions.
+Account & Support,I want to change my email,You can update your email address from account settings.
+Account & Support,How do I update my mobile number?,Visit account settings and edit your registered phone number.
+Account & Support,Remove my account,Account deletion requests can be submitted through customer support.
+Account & Support,How do I reach customer support?,You can contact support through chat email or phone.
+Account & Support,I need help from an agent,You can contact support through chat email or phone.
+Account & Support,What time is support available?,Customer support is available from 9 AM to 6 PM on business days.
+Account & Support,Do you have live chat?,Yes live chat support is available during working hours.
+Account & Support,How can I contact customer care?,The customer care number is available on the Contact Us page.
+Account & Support,I want to talk to the customer care,The customer care number is available on the Contact Us page.
+Account & Support,I want to talk to a person about my order,The customer care number is available on the Contact Us page.
