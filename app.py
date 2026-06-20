@@ -32,7 +32,7 @@ faq_vectors=vectorizer.fit_transform(
 )
 
 # Understanding texts
-CONFIDENCE_THRESHOLD=0.30
+CONFIDENCE_THRESHOLD=0.50
 GREETINGS={
     "hi",
     "hello",
